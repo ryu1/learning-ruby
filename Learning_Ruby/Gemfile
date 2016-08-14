@@ -7,4 +7,3 @@ gem 'ruby-lint'
 gem 'guard-rubocop'
 gem 'ruby-debug-ide'
 gem 'debase'
-

@@ -7,7 +7,7 @@ class SleepyPerson
   end
 
   def wake_up!
-    @event_handler.call Time.now, 'woke up'
+    @event_handler.call Time.now, 'woke up, hully'
   end
 end
 
